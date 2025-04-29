@@ -51,13 +51,13 @@
 <br><br>
 
 ## ✔️ 프로젝트 시연 영상
-https://www.youtube.com/watch?v=U0sf83A_tq0 
+[YouTube 링크](https://www.youtube.com/watch?v=U0sf83A_tq0)
 
 <br><br>
 
 ## ✔️ 시스템 아키텍쳐
 
-![Image](https://github.com/user-attachments/assets/4b9f1f57-0499-4a8d-b282-b84d63fb7163)
+![Image](https://github.com/user-attachments/assets/27041d4d-2958-4635-8b3a-f315c318e07b)
 
 <br><br>
 
