@@ -25,7 +25,7 @@
       <td align="center"><a href="https://github.com/3DUCK"><img src="https://avatars.githubusercontent.com/3DUCK" width="150px;" alt=""/><br /><sub><b>Team Leader 김건우</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/kharabiner"><img src="https://avatars.githubusercontent.com/kharabiner" width="150px;" alt=""/><br /><sub><b>Team Member 박한빈</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/Dawon-Y"><img src="https://avatars.githubusercontent.com/Dawon-Y" width="150px;" alt=""/><br /><sub><b>Team Member 양다원</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/hanjunLee00"><img src="https://avatars.githubusercontent.com/hanjunLee00" width="150px;" alt=""/><br /><sub><b>Team Member 이한준</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/hanjunLee00"><img src="https://avatars.githubusercontent.com/Lee-Han-Jun" width="150px;" alt=""/><br /><sub><b>Team Member 이한준</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/sumi-03"><img src="https://avatars.githubusercontent.com/sumi-03" width="150px;" alt=""/><br /><sub><b>Team Member 임수미</b></sub></a><br /></td>
     </tr>
   </tbody>
